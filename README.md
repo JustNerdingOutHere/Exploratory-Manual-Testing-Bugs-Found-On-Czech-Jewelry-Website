@@ -1,2 +1,4 @@
 # Exploratory-Manual-Testing-Bugs-Found-On-Czech-Jewelry-Website
-This self-initiated junior manual project arose from my curiosity to document some bugs on a website I'd be familiar with. The bugs were documented in alignment with software exploratory methods and UX principles. By reading this, you're looking at my first manual QA project. Note: I declare AI has only been used for the test form to keep it uniform and clean.
+Project Overview:
+This project serves as a demonstration of my work, thinking and knowledge to track down bugs independently of any guidance.
+It showcases my hands-on approach to exploratory testing, defect logging, and user-centric thinking. By using software QA methodology, some common bugs degrading the overall user experience were inspected, identified and documented. Many more projects are to come!
