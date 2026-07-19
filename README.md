@@ -1,0 +1,2 @@
+# Exploratory-Manual-Testing-Bugs-Found-On-Czech-Jewelry-Website
+This self-initiated manual project arose from my curiosity to document some bugs on a website I'd be familiar with. The bugs were documented in alignment with software exploratory methods and user's experience principles. It's my first manual QA project. Note: I declare AI has only been used for the tests form to keep it uniform and clean.
